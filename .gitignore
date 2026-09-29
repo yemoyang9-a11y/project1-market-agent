@@ -1,0 +1,29 @@
+# Secrets and Environment Variables
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+
+# Python & Virtual Environments
+.venv/
+venv/
+ENV/
+__pycache__/
+*.py[cod]
+*$py.class
+*.pytest_cache/
+.coverage
+htmlcov/
+
+# Logs
+*.log
+logs/*.log
+!logs/.gitkeep
+!logs/source_plan.md
+
+# OS / Editor Artifacts
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
