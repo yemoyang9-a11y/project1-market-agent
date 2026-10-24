@@ -3,7 +3,7 @@
     "title": "NovaFactory AI 시장·경쟁사 인텔리전스 리포트",
     "company_name": "NovaFactory AI",
     "business_area": "제조업 AI 비전 품질검사",
-    "generated_at": "2026-10-23 12:47:50 KST",
+    "generated_at": "2026-10-24 12:41:58 KST",
     "total_recommended": 30,
     "top_highlights_count": 10
   },
@@ -37,7 +37,7 @@
     },
     {
       "rank": "2",
-      "article_id": "LIVE-0219",
+      "article_id": "LIVE-0222",
       "category": "tech",
       "title": "다겸, ‘2026 산업AI EXPO’ 참가…비전AI 기반 품질검사 솔루션 선보여 - E동아",
       "date": "2026-10-19",
@@ -54,7 +54,7 @@
     },
     {
       "rank": "3",
-      "article_id": "LIVE-0820",
+      "article_id": "LIVE-0819",
       "category": "policy",
       "title": "GC녹십자, LG CNS와 스마트공장 구축…AI 자동화 추진 - 연합뉴스",
       "date": "2026-10-14",
@@ -71,7 +71,7 @@
     },
     {
       "rank": "4",
-      "article_id": "LIVE-0827",
+      "article_id": "LIVE-0828",
       "category": "policy",
       "title": "GC녹십자, LG CNS와 스마트공장 구축 'AI 자동화' - 비즈워치",
       "date": "2026-10-14",
@@ -88,7 +88,7 @@
     },
     {
       "rank": "5",
-      "article_id": "LIVE-0129",
+      "article_id": "LIVE-0126",
       "category": "policy",
       "title": "삼성은 스마트공장, SK는 자율팹…AI가 다시 쓰는 제조업 공식 [2027 테크퀘스트] - 이투데이",
       "date": "2026-10-22",
@@ -105,24 +105,7 @@
     },
     {
       "rank": "6",
-      "article_id": "LIVE-0199",
-      "category": "policy",
-      "title": "창원 제조업에 AI·로봇 투입…96억 원 들여 ‘스마트공장’ 혁신 가속 - 코리아이글뉴스",
-      "date": "2026-10-21",
-      "total_score": "43.0",
-      "corporate_relevance": "4",
-      "business_importance": "5",
-      "action_necessity": "지원사업 공모 및 고객사 바우처 연계 검토",
-      "recommendation_reason": "정부 정책/펀딩 핵심 키워드(스마트공장)가 포함되어 고객사 유입 기회 분석에 직결됨. 스마트팩토리 및 제조 AX 확산 국면에서 주요 잠재 고객사 수요를 파악하기에 최적임.",
-      "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5Yc0FLYjRtN3c2RUxlQjhiY0ROaGlpOEl6S1BBd1djdVh4V3kxVzF3bzd1QUktUzc2b0p1TFhENHRUenRsZ1lBamhQWXdueVhnRWRkdGNoQWhzbUNQYms5cDNOMkJjZ2VqcnJ6eGpBVDBWeEk?oc=5",
-      "source_name": "Google News (스마트팩토리)",
-      "keywords": "AI|스마트공장",
-      "company_tag": "",
-      "data_origin": "live"
-    },
-    {
-      "rank": "7",
-      "article_id": "LIVE-0235",
+      "article_id": "LIVE-0234",
       "category": "tech",
       "title": "디엑스알, AI·로봇 기능 기반 비정형 공정 품질검사까지 자동화 [서울AI허브 2027] - IT조선",
       "date": "2026-10-08",
@@ -138,8 +121,25 @@
       "data_origin": "live"
     },
     {
+      "rank": "7",
+      "article_id": "LIVE-0818",
+      "category": "policy",
+      "title": "창원 제조업에 AI·로봇 투입…96억 원 들여 ‘스마트공장’ 혁신 가속 - 코리아이글뉴스",
+      "date": "2026-10-21",
+      "total_score": "43.0",
+      "corporate_relevance": "4",
+      "business_importance": "5",
+      "action_necessity": "지원사업 공모 및 고객사 바우처 연계 검토",
+      "recommendation_reason": "정부 정책/펀딩 핵심 키워드(스마트공장)가 포함되어 고객사 유입 기회 분석에 직결됨. 스마트팩토리 및 제조 AX 확산 국면에서 주요 잠재 고객사 수요를 파악하기에 최적임.",
+      "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5Yc0FLYjRtN3c2RUxlQjhiY0ROaGlpOEl6S1BBd1djdVh4V3kxVzF3bzd1QUktUzc2b0p1TFhENHRUenRsZ1lBamhQWXdueVhnRWRkdGNoQWhzbUNQYms5cDNOMkJjZ2VqcnJ6eGpBVDBWeEk?oc=5",
+      "source_name": "Google News (스마트공장)",
+      "keywords": "AI|스마트공장",
+      "company_tag": "",
+      "data_origin": "live"
+    },
+    {
       "rank": "8",
-      "article_id": "LIVE-0545",
+      "article_id": "LIVE-0540",
       "category": "tech",
       "title": "라온피플, 머신비전 넘어 제조AX로 확장… 설비 데이터 읽는 AI 에이전트까지 - FA저널",
       "date": "2026-10-19",
@@ -156,34 +156,34 @@
     },
     {
       "rank": "9",
-      "article_id": "LIVE-0160",
-      "category": "policy",
-      "title": "공장에 AI 입힌다…제약업계, 스마트공장 전환 속도 - 핀포인트뉴스",
-      "date": "2026-10-20",
-      "total_score": "40.0",
-      "corporate_relevance": "4",
-      "business_importance": "5",
-      "action_necessity": "지원사업 공모 및 고객사 바우처 연계 검토",
-      "recommendation_reason": "정부 정책/펀딩 핵심 키워드(스마트공장)가 포함되어 고객사 유입 기회 분석에 직결됨. 스마트팩토리 및 제조 AX 확산 국면에서 주요 잠재 고객사 수요를 파악하기에 최적임.",
-      "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE44TUMzakttVElBMUJWS2wwM0p2a01QdHA0LVk1dV9YVHJfaDE5TzJfS19md2xkVF9JNl8xR0tFUDA1VkJCQnBpRmFDMmFLbm9FejBxSjlNY3pDQ0tBT1otTmw4RTVtTGM2bWZDUGdDSWpHRGfSAXdBVV95cUxOc0lSSEtqQU0tSG80VHlFNlhXWno1V3BpXzltVEFSQXd0dDdTcnB3dTcySExCSFBINXZid3RWVmR2cUxwYkNhWFJVb0JGY0Q3dlVKTENWRTNXMjlCeS15QkJPSHlQWjAzSnhNNHdhYS1FdFlLVkZMSQ?oc=5",
-      "source_name": "Google News (스마트팩토리)",
-      "keywords": "AI|스마트공장",
+      "article_id": "LIVE-1202",
+      "category": "tech",
+      "title": "이노디스크, 엣지 AI 비전 도입 가속화할 올인원 GMSL2™ Camera Starter Kit 출시",
+      "date": "2026-10-23",
+      "total_score": "42.0",
+      "corporate_relevance": "5",
+      "business_importance": "4",
+      "action_necessity": "비전 AI 불량 검출 알고리즘 및 제품 로드맵 반영",
+      "recommendation_reason": "NovaFactory AI의 핵심인 비전 불량 검출 기술 고도화와 직접적 연관성이 높음.",
+      "source_url": "https://zdnet.co.kr/view/?no=20261023181014",
+      "source_name": "ZDNet Korea",
+      "keywords": "AI",
       "company_tag": "",
       "data_origin": "live"
     },
     {
       "rank": "10",
-      "article_id": "LIVE-0822",
+      "article_id": "LIVE-0081",
       "category": "policy",
-      "title": "이소영 중기부 장관, “AI 대전환, 중소기업이 주역”…스마트공장 넘어 피지컬 AI까지 지원 - 인공지능신문",
-      "date": "2026-10-13",
+      "title": "아이지, 디지털 트윈 기반 스마트공장 교육으로 제조 AI 인재 양성 - 산업일보",
+      "date": "2026-10-24",
       "total_score": "40.0",
       "corporate_relevance": "4",
       "business_importance": "5",
       "action_necessity": "지원사업 공모 및 고객사 바우처 연계 검토",
       "recommendation_reason": "정부 정책/펀딩 핵심 키워드(스마트공장)가 포함되어 고객사 유입 기회 분석에 직결됨. 스마트팩토리 및 제조 AX 확산 국면에서 주요 잠재 고객사 수요를 파악하기에 최적임.",
-      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1OMl9aRGo5ZWRTekZHaks4Z3RFQmRiRVk3UGtvcXVtelhhbk40b2VVei1jdXBwbVdwYndtTk1NVTlERGRzVFllT0k5S3gtQnpsZ2FQZktKS1ZXUng5dW5WdmxueW9RM1U?oc=5",
-      "source_name": "Google News (스마트공장)",
+      "source_url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9iMVBKVWxsUWFwNmJMVUtlZk91ZmZPWm5SVmNFN00zdHJOakIxM0FpVlBwS2lzNFpNREJzRDk0c2JnZHJw?oc=5",
+      "source_name": "Google News (AI)",
       "keywords": "AI|스마트공장",
       "company_tag": "",
       "data_origin": "live"
@@ -209,7 +209,7 @@
     },
     {
       "rank": "2",
-      "article_id": "LIVE-0219",
+      "article_id": "LIVE-0222",
       "category": "tech",
       "title": "다겸, ‘2026 산업AI EXPO’ 참가…비전AI 기반 품질검사 솔루션 선보여 - E동아",
       "date": "2026-10-19",
@@ -226,7 +226,7 @@
     },
     {
       "rank": "3",
-      "article_id": "LIVE-0820",
+      "article_id": "LIVE-0819",
       "category": "policy",
       "title": "GC녹십자, LG CNS와 스마트공장 구축…AI 자동화 추진 - 연합뉴스",
       "date": "2026-10-14",
@@ -243,7 +243,7 @@
     },
     {
       "rank": "4",
-      "article_id": "LIVE-0827",
+      "article_id": "LIVE-0828",
       "category": "policy",
       "title": "GC녹십자, LG CNS와 스마트공장 구축 'AI 자동화' - 비즈워치",
       "date": "2026-10-14",
@@ -260,7 +260,7 @@
     },
     {
       "rank": "5",
-      "article_id": "LIVE-0129",
+      "article_id": "LIVE-0126",
       "category": "policy",
       "title": "삼성은 스마트공장, SK는 자율팹…AI가 다시 쓰는 제조업 공식 [2027 테크퀘스트] - 이투데이",
       "date": "2026-10-22",
@@ -277,24 +277,7 @@
     },
     {
       "rank": "6",
-      "article_id": "LIVE-0199",
-      "category": "policy",
-      "title": "창원 제조업에 AI·로봇 투입…96억 원 들여 ‘스마트공장’ 혁신 가속 - 코리아이글뉴스",
-      "date": "2026-10-21",
-      "total_score": "43.0",
-      "corporate_relevance": "4",
-      "business_importance": "5",
-      "action_necessity": "지원사업 공모 및 고객사 바우처 연계 검토",
-      "recommendation_reason": "정부 정책/펀딩 핵심 키워드(스마트공장)가 포함되어 고객사 유입 기회 분석에 직결됨. 스마트팩토리 및 제조 AX 확산 국면에서 주요 잠재 고객사 수요를 파악하기에 최적임.",
-      "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5Yc0FLYjRtN3c2RUxlQjhiY0ROaGlpOEl6S1BBd1djdVh4V3kxVzF3bzd1QUktUzc2b0p1TFhENHRUenRsZ1lBamhQWXdueVhnRWRkdGNoQWhzbUNQYms5cDNOMkJjZ2VqcnJ6eGpBVDBWeEk?oc=5",
-      "source_name": "Google News (스마트팩토리)",
-      "keywords": "AI|스마트공장",
-      "company_tag": "",
-      "data_origin": "live"
-    },
-    {
-      "rank": "7",
-      "article_id": "LIVE-0235",
+      "article_id": "LIVE-0234",
       "category": "tech",
       "title": "디엑스알, AI·로봇 기능 기반 비정형 공정 품질검사까지 자동화 [서울AI허브 2027] - IT조선",
       "date": "2026-10-08",
@@ -310,8 +293,25 @@
       "data_origin": "live"
     },
     {
+      "rank": "7",
+      "article_id": "LIVE-0818",
+      "category": "policy",
+      "title": "창원 제조업에 AI·로봇 투입…96억 원 들여 ‘스마트공장’ 혁신 가속 - 코리아이글뉴스",
+      "date": "2026-10-21",
+      "total_score": "43.0",
+      "corporate_relevance": "4",
+      "business_importance": "5",
+      "action_necessity": "지원사업 공모 및 고객사 바우처 연계 검토",
+      "recommendation_reason": "정부 정책/펀딩 핵심 키워드(스마트공장)가 포함되어 고객사 유입 기회 분석에 직결됨. 스마트팩토리 및 제조 AX 확산 국면에서 주요 잠재 고객사 수요를 파악하기에 최적임.",
+      "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5Yc0FLYjRtN3c2RUxlQjhiY0ROaGlpOEl6S1BBd1djdVh4V3kxVzF3bzd1QUktUzc2b0p1TFhENHRUenRsZ1lBamhQWXdueVhnRWRkdGNoQWhzbUNQYms5cDNOMkJjZ2VqcnJ6eGpBVDBWeEk?oc=5",
+      "source_name": "Google News (스마트공장)",
+      "keywords": "AI|스마트공장",
+      "company_tag": "",
+      "data_origin": "live"
+    },
+    {
       "rank": "8",
-      "article_id": "LIVE-0545",
+      "article_id": "LIVE-0540",
       "category": "tech",
       "title": "라온피플, 머신비전 넘어 제조AX로 확장… 설비 데이터 읽는 AI 에이전트까지 - FA저널",
       "date": "2026-10-19",
@@ -328,6 +328,40 @@
     },
     {
       "rank": "9",
+      "article_id": "LIVE-1202",
+      "category": "tech",
+      "title": "이노디스크, 엣지 AI 비전 도입 가속화할 올인원 GMSL2™ Camera Starter Kit 출시",
+      "date": "2026-10-23",
+      "total_score": "42.0",
+      "corporate_relevance": "5",
+      "business_importance": "4",
+      "action_necessity": "비전 AI 불량 검출 알고리즘 및 제품 로드맵 반영",
+      "recommendation_reason": "NovaFactory AI의 핵심인 비전 불량 검출 기술 고도화와 직접적 연관성이 높음.",
+      "source_url": "https://zdnet.co.kr/view/?no=20261023181014",
+      "source_name": "ZDNet Korea",
+      "keywords": "AI",
+      "company_tag": "",
+      "data_origin": "live"
+    },
+    {
+      "rank": "10",
+      "article_id": "LIVE-0081",
+      "category": "policy",
+      "title": "아이지, 디지털 트윈 기반 스마트공장 교육으로 제조 AI 인재 양성 - 산업일보",
+      "date": "2026-10-24",
+      "total_score": "40.0",
+      "corporate_relevance": "4",
+      "business_importance": "5",
+      "action_necessity": "지원사업 공모 및 고객사 바우처 연계 검토",
+      "recommendation_reason": "정부 정책/펀딩 핵심 키워드(스마트공장)가 포함되어 고객사 유입 기회 분석에 직결됨. 스마트팩토리 및 제조 AX 확산 국면에서 주요 잠재 고객사 수요를 파악하기에 최적임.",
+      "source_url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9iMVBKVWxsUWFwNmJMVUtlZk91ZmZPWm5SVmNFN00zdHJOakIxM0FpVlBwS2lzNFpNREJzRDk0c2JnZHJw?oc=5",
+      "source_name": "Google News (AI)",
+      "keywords": "AI|스마트공장",
+      "company_tag": "",
+      "data_origin": "live"
+    },
+    {
+      "rank": "11",
       "article_id": "LIVE-0160",
       "category": "policy",
       "title": "공장에 AI 입힌다…제약업계, 스마트공장 전환 속도 - 핀포인트뉴스",
@@ -344,8 +378,8 @@
       "data_origin": "live"
     },
     {
-      "rank": "10",
-      "article_id": "LIVE-0822",
+      "rank": "12",
+      "article_id": "LIVE-0821",
       "category": "policy",
       "title": "이소영 중기부 장관, “AI 대전환, 중소기업이 주역”…스마트공장 넘어 피지컬 AI까지 지원 - 인공지능신문",
       "date": "2026-10-13",
@@ -361,8 +395,8 @@
       "data_origin": "live"
     },
     {
-      "rank": "11",
-      "article_id": "LIVE-0825",
+      "rank": "13",
+      "article_id": "LIVE-0824",
       "category": "policy",
       "title": "창원서 제조 AI·스마트공장 통합 'The Next AI×SMATOF' 개막 - 연합뉴스",
       "date": "2026-10-14",
@@ -378,7 +412,7 @@
       "data_origin": "live"
     },
     {
-      "rank": "12",
+      "rank": "14",
       "article_id": "LIVE-0826",
       "category": "policy",
       "title": "삼성전자 노하우 전수받는 中企…스마트공장에 AI 접목 추진 - 전자신문",
@@ -395,7 +429,7 @@
       "data_origin": "live"
     },
     {
-      "rank": "13",
+      "rank": "15",
       "article_id": "LIVE-0829",
       "category": "policy",
       "title": "GC녹십자-LG CNS, 'AI 스마트공장' 만든다 - 전자신문",
@@ -412,8 +446,8 @@
       "data_origin": "live"
     },
     {
-      "rank": "14",
-      "article_id": "LIVE-0839",
+      "rank": "16",
+      "article_id": "LIVE-0841",
       "category": "policy",
       "title": "양산시, 스마트공장 구축·제조AI 지원 참여기업 모집 - 양산신문",
       "date": "2026-10-13",
@@ -429,8 +463,8 @@
       "data_origin": "live"
     },
     {
-      "rank": "15",
-      "article_id": "LIVE-0843",
+      "rank": "17",
+      "article_id": "LIVE-0844",
       "category": "policy",
       "title": "삼성전자 '스마트공장 4.0' 시동…이소영 중기부 장관 “中企도 AI 혁신 주역” - 매일일보",
       "date": "2026-10-13",
@@ -446,7 +480,7 @@
       "data_origin": "live"
     },
     {
-      "rank": "16",
+      "rank": "18",
       "article_id": "LIVE-0845",
       "category": "policy",
       "title": "양산시, 중소기업 '스마트공장·AI 전환' 지원사업 참여기업 모집 - 아시아경제",
@@ -463,8 +497,25 @@
       "data_origin": "live"
     },
     {
-      "rank": "17",
-      "article_id": "LIVE-0852",
+      "rank": "19",
+      "article_id": "LIVE-0853",
+      "category": "policy",
+      "title": "전북 제조업, ‘스마트공장’ 넘어 AI 자율제조로 간다 - 전라매일",
+      "date": "2026-09-29",
+      "total_score": "40.0",
+      "corporate_relevance": "4",
+      "business_importance": "5",
+      "action_necessity": "지원사업 공모 및 고객사 바우처 연계 검토",
+      "recommendation_reason": "정부 정책/펀딩 핵심 키워드(스마트공장)가 포함되어 고객사 유입 기회 분석에 직결됨. 스마트팩토리 및 제조 AX 확산 국면에서 주요 잠재 고객사 수요를 파악하기에 최적임.",
+      "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE83dDVHVUM3UVl1NkJ4cXJHblhGT3U5M0tpLXBMR2JhWTRLQUVDM1pWY0hzVERnVUZCYWpUUkgwSnF3R2NZUVNERWJxazZlUlNOenc?oc=5",
+      "source_name": "Google News (스마트공장)",
+      "keywords": "AI|스마트공장",
+      "company_tag": "",
+      "data_origin": "live"
+    },
+    {
+      "rank": "20",
+      "article_id": "LIVE-0854",
       "category": "policy",
       "title": "중기부, 스마트공장 6800곳 지원 넘어 제조 AI로…이소영 장관 “중소기업이 혁신 주역 돼야” - 벤처스퀘어",
       "date": "2026-10-13",
@@ -480,8 +531,8 @@
       "data_origin": "live"
     },
     {
-      "rank": "18",
-      "article_id": "LIVE-0854",
+      "rank": "21",
+      "article_id": "LIVE-0857",
       "category": "policy",
       "title": "GC녹십자, LG CNS와 AI 기반 스마트공장 구축 - www.dt.co.kr",
       "date": "2026-10-14",
@@ -497,8 +548,25 @@
       "data_origin": "live"
     },
     {
-      "rank": "19",
-      "article_id": "LIVE-0207",
+      "rank": "22",
+      "article_id": "LIVE-1183",
+      "category": "tech",
+      "title": "SAP ERP 차세대 전환 초읽기…기업 비용 부담 줄일 해법은",
+      "date": "2026-10-24",
+      "total_score": "40.0",
+      "corporate_relevance": "4",
+      "business_importance": "3",
+      "action_necessity": "시장 및 규제 트렌드 모니터링",
+      "recommendation_reason": "스마트팩토리 및 제조 AX 확산 국면에서 주요 잠재 고객사 수요를 파악하기에 최적임.",
+      "source_url": "https://zdnet.co.kr/view/?no=20261023220851",
+      "source_name": "ZDNet Korea",
+      "keywords": "AI|자동화|클라우드",
+      "company_tag": "",
+      "data_origin": "live"
+    },
+    {
+      "rank": "23",
+      "article_id": "LIVE-0202",
       "category": "tech",
       "title": "제논, 인니 '나이키 신발' 품질검사 AI 양산 검증 통과 - 전자신문",
       "date": "2026-10-21",
@@ -514,8 +582,8 @@
       "data_origin": "live"
     },
     {
-      "rank": "20",
-      "article_id": "LIVE-0216",
+      "rank": "24",
+      "article_id": "LIVE-0213",
       "category": "tech",
       "title": "제논 \"나이키 AI 품질검사 양산 검증 통과 - 디지털투데이",
       "date": "2026-10-21",
@@ -531,7 +599,7 @@
       "data_origin": "live"
     },
     {
-      "rank": "21",
+      "rank": "25",
       "article_id": "LIVE-0221",
       "category": "tech",
       "title": "[중국 특징주] 中 국민양념 '라오간마', AI 품질검사 도입 후 매출 신기록 - 뉴스핌",
@@ -548,8 +616,8 @@
       "data_origin": "live"
     },
     {
-      "rank": "22",
-      "article_id": "LIVE-0241",
+      "rank": "26",
+      "article_id": "LIVE-0238",
       "category": "tech",
       "title": "[스마트팩토리] 라면업계, 생산 현장 AI 활용 품질관리 시스템 도입 …제조 경쟁력 강화 - 서울STV뉴스",
       "date": "2026-10-15",
@@ -565,8 +633,8 @@
       "data_origin": "live"
     },
     {
-      "rank": "23",
-      "article_id": "LIVE-0276",
+      "rank": "27",
+      "article_id": "LIVE-0270",
       "category": "tech",
       "title": "GC녹십자, LG CNS와 'AI 스마트 공장' 구축… 2030년까지 생산·품질 관리 자동화 - 파이낸셜포스트",
       "date": "2026-10-14",
@@ -582,25 +650,8 @@
       "data_origin": "live"
     },
     {
-      "rank": "24",
-      "article_id": "LIVE-0601",
-      "category": "tech",
-      "title": "VNTG, 한국MS와 ‘제조 AX 동맹’…공장 AI 구축부터 운영까지 - 한스경제",
-      "date": "2026-10-18",
-      "total_score": "38.0",
-      "corporate_relevance": "4",
-      "business_importance": "3",
-      "action_necessity": "중소제조 타깃 고객사 발굴 및 영업 파이프라인 연계",
-      "recommendation_reason": "스마트팩토리 및 제조 AX 확산 국면에서 주요 잠재 고객사 수요를 파악하기에 최적임.",
-      "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ENWVzeWpIdjJyMXZDaERIV3dmUkU0cTVuc2gtNDJIZk5kVXBLUHQ1bFlwQTVYMFBUdkI3bDBnb0NnM2FUUnZYOXJ4U0pwLWFydkJZVnBTWjdmS1oyLVptUEdzaTZsdFJ1Ukp30gFvQVVfeXFMTnpNdi1MMVRGTGkyRjg3b2lDbzdwRlBKUUpXRDFCSFZNcmlUS3hzNHJZYzJlcEtuTlZnbDcyQnoxbjVIQUc1dkhSYjNWVDNTNmdQa3RCZTAyLXpZdXAxXzl5TFZaVlVuMmdNWmZCSHJ3?oc=5",
-      "source_name": "Google News (제조 AX)",
-      "keywords": "AI|제조 AX",
-      "company_tag": "",
-      "data_origin": "live"
-    },
-    {
-      "rank": "25",
-      "article_id": "LIVE-0161",
+      "rank": "28",
+      "article_id": "LIVE-0151",
       "category": "policy",
       "title": "AI 스마트공장 늘리는 中…국가대표처럼 숙련공 키운다 - 한국경제",
       "date": "2026-10-06",
@@ -616,7 +667,7 @@
       "data_origin": "live"
     },
     {
-      "rank": "26",
+      "rank": "29",
       "article_id": "LIVE-0713",
       "category": "policy",
       "title": "김종철 방미통위원장 AI 바우처 등 지원…미디어 기본사회 1기 비전 발표 - 아주경제",
@@ -633,8 +684,8 @@
       "data_origin": "live"
     },
     {
-      "rank": "27",
-      "article_id": "LIVE-0834",
+      "rank": "30",
+      "article_id": "LIVE-0839",
       "category": "policy",
       "title": "경남 스마트공장 10여 년간 3017억 지원…AI 고도화는 ‘걸음마’ 수준 - 경남도민일보",
       "date": "2026-09-28",
@@ -646,57 +697,6 @@
       "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA4NjZZVWt5WUlvZTRHUUdwM01NY2ozaTJMNm9oS0wta3NlRWdTU1haQk5kREQzbnZ4Z0N2WW5rZlV2MUJKVWtUbFQ0b1RSbVp3ci1mb2R6bTNCZksxMzV5Wk80TnNkYnI0bHc?oc=5",
       "source_name": "Google News (스마트공장)",
       "keywords": "AI|스마트공장",
-      "company_tag": "",
-      "data_origin": "live"
-    },
-    {
-      "rank": "28",
-      "article_id": "LIVE-0584",
-      "category": "tech",
-      "title": "디스플레이 제조현장에도 AI 확산…생산성 높이고 불량 줄인다 - 데일리안",
-      "date": "2026-10-22",
-      "total_score": "36.0",
-      "corporate_relevance": "5",
-      "business_importance": "3",
-      "action_necessity": "비전 AI 불량 검출 알고리즘 및 제품 로드맵 반영",
-      "recommendation_reason": "NovaFactory AI의 핵심인 비전 불량 검출 기술 고도화와 직접적 연관성이 높음.",
-      "source_url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNM0Q0VTRNVTRzTGtRZ0pRUU01bUhHMURoQmxTd2FUc0dSRmgzNFFuRXVfNmx5MWVEUVBRWVYySzVBbThJWUtvbkx0aWE3MGhXR2FRLXVmamgyMmVPT3UyVURZZUx0Yzc2WmczVjFwdkFlYnB5QTBiMjVZdWRTTW00MHNabUcyOGZmVm16MHBpZTNkS0lObnZ5b1Q1SDgwdXVFRzREeUdqbFRWQ3JablJLRVB2SUZOTTBXRmg5SFpLQlVBU3VybWpIUHdxWjg2cG1iTWtzSnhpS3VzQ0pzVjRJNk16ZGdQRkdKcF9zTGJtRlE4UUk0X2dSUXUzYS1ncm9lOXpUNF9UXzluR2p0SFJSWjZ0OUpITUlT?oc=5",
-      "source_name": "Google News (제조 AX)",
-      "keywords": "AI",
-      "company_tag": "",
-      "data_origin": "live"
-    },
-    {
-      "rank": "29",
-      "article_id": "LIVE-0808",
-      "category": "policy",
-      "title": "中, 5G 스마트공장 1,260곳 구축…제조업 디지털화 확대 - 연합뉴스TV",
-      "date": "2026-10-21",
-      "total_score": "35.0",
-      "corporate_relevance": "4",
-      "business_importance": "5",
-      "action_necessity": "지원사업 공모 및 고객사 바우처 연계 검토",
-      "recommendation_reason": "정부 정책/펀딩 핵심 키워드(스마트공장)가 포함되어 고객사 유입 기회 분석에 직결됨. 스마트팩토리 및 제조 AX 확산 국면에서 주요 잠재 고객사 수요를 파악하기에 최적임.",
-      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE00cXRibW1GSmY0QkNzbVRGN2xIOUE1OTBsYzVWNDRER2hvUDZsV2dkWGFFYWFWY1FmaU5laWYtcXVJcGliMWNORC1KQVVzX3lXdkM0RFZwYU1Fdm5aUXpaVV81eDlFRnc?oc=5",
-      "source_name": "Google News (스마트공장)",
-      "keywords": "스마트공장",
-      "company_tag": "",
-      "data_origin": "live"
-    },
-    {
-      "rank": "30",
-      "article_id": "LIVE-0851",
-      "category": "policy",
-      "title": "韓 중소기업들, 삼성전자 스마트공장 지원에 혁신·생산성 UP - 메트로신문",
-      "date": "2026-10-13",
-      "total_score": "35.0",
-      "corporate_relevance": "4",
-      "business_importance": "5",
-      "action_necessity": "지원사업 공모 및 고객사 바우처 연계 검토",
-      "recommendation_reason": "정부 정책/펀딩 핵심 키워드(스마트공장)가 포함되어 고객사 유입 기회 분석에 직결됨. 스마트팩토리 및 제조 AX 확산 국면에서 주요 잠재 고객사 수요를 파악하기에 최적임.",
-      "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1KVWtyRkduV2F1Y18xMGpyOWJCSDhocHEwTFBGcm5BWFppbS1BQXRFTkVFTXIzTnhpR2ZSQlZlSUlvTGdsalJxOWtVa3lfazFqMV9oZkltT1VHcElsOG4xRg?oc=5",
-      "source_name": "Google News (스마트공장)",
-      "keywords": "스마트공장",
       "company_tag": "",
       "data_origin": "live"
     }
