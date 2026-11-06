@@ -3,28 +3,24 @@
     "title": "NovaFactory AI 시장·경쟁사 인텔리전스 리포트",
     "company_name": "NovaFactory AI",
     "business_area": "제조업 AI 비전 품질검사",
-    "generated_at": "2026-11-05 14:38:13 KST",
+    "generated_at": "2026-11-06 14:34:36 KST",
     "total_recommended": 30,
     "top_highlights_count": 10
   },
   "category_statistics": {
     "tech": {
-      "count": 20,
-      "percentage": 66.7
+      "count": 18,
+      "percentage": 60.0
     },
     "policy": {
-      "count": 8,
-      "percentage": 26.7
-    },
-    "market": {
-      "count": 2,
-      "percentage": 6.7
+      "count": 12,
+      "percentage": 40.0
     }
   },
   "top_10": [
     {
       "rank": "1",
-      "article_id": "LIVE-0128",
+      "article_id": "LIVE-0112",
       "category": "tech",
       "title": "KGC, 홍삼 생산에 AI 품질검사 도입…스마트팩토리 고도화 - 푸드투데이",
       "date": "2026-11-04",
@@ -43,14 +39,14 @@
       "rank": "2",
       "article_id": "LIVE-0107",
       "category": "tech",
-      "title": "[마켓 HOT 뉴스] KGC, '스마트팩토리' 고도화…AI 품질검사에 태양광 설비까지 - 비즈월드",
-      "date": "2026-11-05",
+      "title": "KGC, AI 품질검사·태양광 설비 확대…스마트팩토리 고도화 - 연합뉴스",
+      "date": "2026-11-04",
       "total_score": "52.0",
       "corporate_relevance": "5",
       "business_importance": "3",
       "action_necessity": "비전 AI 불량 검출 알고리즘 및 제품 로드맵 반영",
       "recommendation_reason": "NovaFactory AI의 핵심인 비전 불량 검출 기술 고도화와 직접적 연관성이 높음.",
-      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBkaC1xdWllb3B4bDhJVi1KVEZJaUVsd2xpdmozWnFBUDlqWmNwc0NwbXFVdklSLXBPa0lwdGNKb09MbjJ2aHU2b2h3OUFnY095V1pDQ2hCMzVCSUJKWE5TdndMQUFlU0VkclE?oc=5",
+      "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE56VW9CaTQxaUo2QWJzbWhkc052aVEwMkN5bkp2dE84WXFfR3FWTGhJVnNvOUlHWDNaVUZ3a2pKMk1aU2FrbFJ2VXZHMWZaTVNwS1c5dmNkaVZOQUg5UmRsddIBYEFVX3lxTE56VW9CaTQxaUo2QWJzbWhkc052aVEwMkN5bkp2dE84WXFfR3FWTGhJVnNvOUlHWDNaVUZ3a2pKMk1aU2FrbFJ2VXZHMWZaTVNwS1c5dmNkaVZOQUg5UmRsdQ?oc=5",
       "source_name": "Google News (스마트팩토리)",
       "keywords": "AI|스마트팩토리|품질검사",
       "company_tag": "",
@@ -58,7 +54,7 @@
     },
     {
       "rank": "3",
-      "article_id": "LIVE-0119",
+      "article_id": "LIVE-0109",
       "category": "tech",
       "title": "KGC, AI 품질검사·태양광 확대…스마트팩토리 고도화 - 전자신문",
       "date": "2026-11-04",
@@ -75,24 +71,7 @@
     },
     {
       "rank": "4",
-      "article_id": "LIVE-0121",
-      "category": "tech",
-      "title": "KGC, AI 품질검사·태양광 설비 확대…스마트팩토리 고도화 - 연합뉴스",
-      "date": "2026-11-04",
-      "total_score": "52.0",
-      "corporate_relevance": "5",
-      "business_importance": "3",
-      "action_necessity": "비전 AI 불량 검출 알고리즘 및 제품 로드맵 반영",
-      "recommendation_reason": "NovaFactory AI의 핵심인 비전 불량 검출 기술 고도화와 직접적 연관성이 높음.",
-      "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE56VW9CaTQxaUo2QWJzbWhkc052aVEwMkN5bkp2dE84WXFfR3FWTGhJVnNvOUlHWDNaVUZ3a2pKMk1aU2FrbFJ2VXZHMWZaTVNwS1c5dmNkaVZOQUg5UmRsddIBYEFVX3lxTE56VW9CaTQxaUo2QWJzbWhkc052aVEwMkN5bkp2dE84WXFfR3FWTGhJVnNvOUlHWDNaVUZ3a2pKMk1aU2FrbFJ2VXZHMWZaTVNwS1c5dmNkaVZOQUg5UmRsdQ?oc=5",
-      "source_name": "Google News (스마트팩토리)",
-      "keywords": "AI|스마트팩토리|품질검사",
-      "company_tag": "",
-      "data_origin": "live"
-    },
-    {
-      "rank": "5",
-      "article_id": "LIVE-0125",
+      "article_id": "LIVE-0110",
       "category": "tech",
       "title": "KGC, AI 품질검사·태양광 설비 확대…스마트팩토리 고도화 - 매일일보",
       "date": "2026-11-04",
@@ -108,8 +87,8 @@
       "data_origin": "live"
     },
     {
-      "rank": "6",
-      "article_id": "LIVE-0130",
+      "rank": "5",
+      "article_id": "LIVE-0113",
       "category": "tech",
       "title": "KGC, AI 품질검사·태양광 설비 확대…스마트팩토리 고도화 - 뉴스핌",
       "date": "2026-11-04",
@@ -125,8 +104,8 @@
       "data_origin": "live"
     },
     {
-      "rank": "7",
-      "article_id": "LIVE-0131",
+      "rank": "6",
+      "article_id": "LIVE-0115",
       "category": "tech",
       "title": "KGC, AI 품질검사·태양광 발전 확대…스마트팩토리 고도화 - 더트래커",
       "date": "2026-11-04",
@@ -142,8 +121,8 @@
       "data_origin": "live"
     },
     {
-      "rank": "8",
-      "article_id": "LIVE-0141",
+      "rank": "7",
+      "article_id": "LIVE-0124",
       "category": "tech",
       "title": "KGC, AI 기반 품질검사·태양광 발전 설비 확대... 스마트팩토리 속도 - 비욘드포스트",
       "date": "2026-11-04",
@@ -159,8 +138,8 @@
       "data_origin": "live"
     },
     {
-      "rank": "9",
-      "article_id": "LIVE-0144",
+      "rank": "8",
+      "article_id": "LIVE-0127",
       "category": "tech",
       "title": "KGC, AI 품질검사·태양광 설비 확대…스마트팩토리 고도화 - 일간투데이",
       "date": "2026-11-04",
@@ -176,8 +155,8 @@
       "data_origin": "live"
     },
     {
-      "rank": "10",
-      "article_id": "LIVE-0145",
+      "rank": "9",
+      "article_id": "LIVE-0128",
       "category": "tech",
       "title": "KGC, AI 품질검사·태양광 발전 확대…스마트팩토리 고도화 속도 - 코리아포스트 한글판",
       "date": "2026-11-04",
@@ -187,6 +166,23 @@
       "action_necessity": "비전 AI 불량 검출 알고리즘 및 제품 로드맵 반영",
       "recommendation_reason": "NovaFactory AI의 핵심인 비전 불량 검출 기술 고도화와 직접적 연관성이 높음.",
       "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9FUGJ1ay1hVG1PY3JMMW5JbUlhbTF5YlZhUUdnUGs5S1NsUGNIbDNiZ3R6SjZBeVU5amhycnlsWEIzVXlQLXhjX3JXaTl3cFdtQTVwQ05uaVN1bG5HR1Q1dUl4TFVlS010TUJXdThn?oc=5",
+      "source_name": "Google News (스마트팩토리)",
+      "keywords": "AI|스마트팩토리|품질검사",
+      "company_tag": "",
+      "data_origin": "live"
+    },
+    {
+      "rank": "10",
+      "article_id": "LIVE-0130",
+      "category": "tech",
+      "title": "KGC, AI 품질검사·태양광 설비 확대…스마트팩토리 고도화 - 파이낸셜포스트",
+      "date": "2026-11-04",
+      "total_score": "52.0",
+      "corporate_relevance": "5",
+      "business_importance": "3",
+      "action_necessity": "비전 AI 불량 검출 알고리즘 및 제품 로드맵 반영",
+      "recommendation_reason": "NovaFactory AI의 핵심인 비전 불량 검출 기술 고도화와 직접적 연관성이 높음.",
+      "source_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5mTXl4eF9NSTZhMnpJTUF6VmcyRVA1QmRLZFFLaEVLWkdxVjItbmdZcGRLOEs1TmVoamtMSnQwWGEzTC1uaGE5RHQ2SDJ2YjF1dnR3QTVYZ1VGTzJNZjU1YWdkWjh5aXIwaFJUTlAzUExpdm9B?oc=5",
       "source_name": "Google News (스마트팩토리)",
       "keywords": "AI|스마트팩토리|품질검사",
       "company_tag": "",
@@ -196,7 +192,7 @@
   "all_recommendations": [
     {
       "rank": "1",
-      "article_id": "LIVE-0128",
+      "article_id": "LIVE-0112",
       "category": "tech",
       "title": "KGC, 홍삼 생산에 AI 품질검사 도입…스마트팩토리 고도화 - 푸드투데이",
       "date": "2026-11-04",
@@ -215,14 +211,14 @@
       "rank": "2",
       "article_id": "LIVE-0107",
       "category": "tech",
-      "title": "[마켓 HOT 뉴스] KGC, '스마트팩토리' 고도화…AI 품질검사에 태양광 설비까지 - 비즈월드",
-      "date": "2026-11-05",
+      "title": "KGC, AI 품질검사·태양광 설비 확대…스마트팩토리 고도화 - 연합뉴스",
+      "date": "2026-11-04",
       "total_score": "52.0",
       "corporate_relevance": "5",
       "business_importance": "3",
       "action_necessity": "비전 AI 불량 검출 알고리즘 및 제품 로드맵 반영",
       "recommendation_reason": "NovaFactory AI의 핵심인 비전 불량 검출 기술 고도화와 직접적 연관성이 높음.",
-      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBkaC1xdWllb3B4bDhJVi1KVEZJaUVsd2xpdmozWnFBUDlqWmNwc0NwbXFVdklSLXBPa0lwdGNKb09MbjJ2aHU2b2h3OUFnY095V1pDQ2hCMzVCSUJKWE5TdndMQUFlU0VkclE?oc=5",
+      "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE56VW9CaTQxaUo2QWJzbWhkc052aVEwMkN5bkp2dE84WXFfR3FWTGhJVnNvOUlHWDNaVUZ3a2pKMk1aU2FrbFJ2VXZHMWZaTVNwS1c5dmNkaVZOQUg5UmRsddIBYEFVX3lxTE56VW9CaTQxaUo2QWJzbWhkc052aVEwMkN5bkp2dE84WXFfR3FWTGhJVnNvOUlHWDNaVUZ3a2pKMk1aU2FrbFJ2VXZHMWZaTVNwS1c5dmNkaVZOQUg5UmRsdQ?oc=5",
       "source_name": "Google News (스마트팩토리)",
       "keywords": "AI|스마트팩토리|품질검사",
       "company_tag": "",
@@ -230,7 +226,7 @@
     },
     {
       "rank": "3",
-      "article_id": "LIVE-0119",
+      "article_id": "LIVE-0109",
       "category": "tech",
       "title": "KGC, AI 품질검사·태양광 확대…스마트팩토리 고도화 - 전자신문",
       "date": "2026-11-04",
@@ -247,24 +243,7 @@
     },
     {
       "rank": "4",
-      "article_id": "LIVE-0121",
-      "category": "tech",
-      "title": "KGC, AI 품질검사·태양광 설비 확대…스마트팩토리 고도화 - 연합뉴스",
-      "date": "2026-11-04",
-      "total_score": "52.0",
-      "corporate_relevance": "5",
-      "business_importance": "3",
-      "action_necessity": "비전 AI 불량 검출 알고리즘 및 제품 로드맵 반영",
-      "recommendation_reason": "NovaFactory AI의 핵심인 비전 불량 검출 기술 고도화와 직접적 연관성이 높음.",
-      "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE56VW9CaTQxaUo2QWJzbWhkc052aVEwMkN5bkp2dE84WXFfR3FWTGhJVnNvOUlHWDNaVUZ3a2pKMk1aU2FrbFJ2VXZHMWZaTVNwS1c5dmNkaVZOQUg5UmRsddIBYEFVX3lxTE56VW9CaTQxaUo2QWJzbWhkc052aVEwMkN5bkp2dE84WXFfR3FWTGhJVnNvOUlHWDNaVUZ3a2pKMk1aU2FrbFJ2VXZHMWZaTVNwS1c5dmNkaVZOQUg5UmRsdQ?oc=5",
-      "source_name": "Google News (스마트팩토리)",
-      "keywords": "AI|스마트팩토리|품질검사",
-      "company_tag": "",
-      "data_origin": "live"
-    },
-    {
-      "rank": "5",
-      "article_id": "LIVE-0125",
+      "article_id": "LIVE-0110",
       "category": "tech",
       "title": "KGC, AI 품질검사·태양광 설비 확대…스마트팩토리 고도화 - 매일일보",
       "date": "2026-11-04",
@@ -280,8 +259,8 @@
       "data_origin": "live"
     },
     {
-      "rank": "6",
-      "article_id": "LIVE-0130",
+      "rank": "5",
+      "article_id": "LIVE-0113",
       "category": "tech",
       "title": "KGC, AI 품질검사·태양광 설비 확대…스마트팩토리 고도화 - 뉴스핌",
       "date": "2026-11-04",
@@ -297,8 +276,8 @@
       "data_origin": "live"
     },
     {
-      "rank": "7",
-      "article_id": "LIVE-0131",
+      "rank": "6",
+      "article_id": "LIVE-0115",
       "category": "tech",
       "title": "KGC, AI 품질검사·태양광 발전 확대…스마트팩토리 고도화 - 더트래커",
       "date": "2026-11-04",
@@ -314,8 +293,8 @@
       "data_origin": "live"
     },
     {
-      "rank": "8",
-      "article_id": "LIVE-0141",
+      "rank": "7",
+      "article_id": "LIVE-0124",
       "category": "tech",
       "title": "KGC, AI 기반 품질검사·태양광 발전 설비 확대... 스마트팩토리 속도 - 비욘드포스트",
       "date": "2026-11-04",
@@ -331,8 +310,8 @@
       "data_origin": "live"
     },
     {
-      "rank": "9",
-      "article_id": "LIVE-0144",
+      "rank": "8",
+      "article_id": "LIVE-0127",
       "category": "tech",
       "title": "KGC, AI 품질검사·태양광 설비 확대…스마트팩토리 고도화 - 일간투데이",
       "date": "2026-11-04",
@@ -348,8 +327,8 @@
       "data_origin": "live"
     },
     {
-      "rank": "10",
-      "article_id": "LIVE-0145",
+      "rank": "9",
+      "article_id": "LIVE-0128",
       "category": "tech",
       "title": "KGC, AI 품질검사·태양광 발전 확대…스마트팩토리 고도화 속도 - 코리아포스트 한글판",
       "date": "2026-11-04",
@@ -365,8 +344,8 @@
       "data_origin": "live"
     },
     {
-      "rank": "11",
-      "article_id": "LIVE-0147",
+      "rank": "10",
+      "article_id": "LIVE-0130",
       "category": "tech",
       "title": "KGC, AI 품질검사·태양광 설비 확대…스마트팩토리 고도화 - 파이낸셜포스트",
       "date": "2026-11-04",
@@ -382,8 +361,8 @@
       "data_origin": "live"
     },
     {
-      "rank": "12",
-      "article_id": "LIVE-0718",
+      "rank": "11",
+      "article_id": "LIVE-0724",
       "category": "policy",
       "title": "아이벡스, 중기부 R&D성과확산 스마트공장 사업 선정…후성정공에 피지컬 AI 구축 - 헬로티",
       "date": "2026-11-05",
@@ -399,8 +378,8 @@
       "data_origin": "live"
     },
     {
-      "rank": "13",
-      "article_id": "LIVE-0118",
+      "rank": "12",
+      "article_id": "LIVE-0111",
       "category": "tech",
       "title": "생산 자동화 넘어 AI 품질관리까지 … KGC, 스마트팩토리 고도화 - 뉴데일리",
       "date": "2026-11-04",
@@ -416,25 +395,8 @@
       "data_origin": "live"
     },
     {
-      "rank": "14",
-      "article_id": "LIVE-1065",
-      "category": "tech",
-      "title": "[인터뷰] \"AI 코딩, 마지막 20%가 어렵다\"…인프라지스틱스가 제시한 개발 해법",
-      "date": "2026-11-05",
-      "total_score": "46.0",
-      "corporate_relevance": "4",
-      "business_importance": "3",
-      "action_necessity": "시장 및 규제 트렌드 모니터링",
-      "recommendation_reason": "스마트팩토리 및 제조 AX 확산 국면에서 주요 잠재 고객사 수요를 파악하기에 최적임.",
-      "source_url": "https://zdnet.co.kr/view/?no=20261105102338",
-      "source_name": "ZDNet Korea",
-      "keywords": "AI|자동화|클라우드",
-      "company_tag": "",
-      "data_origin": "live"
-    },
-    {
-      "rank": "15",
-      "article_id": "LIVE-0111",
+      "rank": "13",
+      "article_id": "LIVE-0114",
       "category": "tech",
       "title": "불량은 AI가, 전기는 태양광이…KGC '스마트팩토리' 속도 - 뉴스웍스",
       "date": "2026-11-04",
@@ -450,8 +412,8 @@
       "data_origin": "live"
     },
     {
-      "rank": "16",
-      "article_id": "LIVE-0138",
+      "rank": "14",
+      "article_id": "LIVE-0117",
       "category": "tech",
       "title": "KGC, AI 비전검사·태양광으로 스마트팩토리 고도화 - 한국재난안전뉴스",
       "date": "2026-11-04",
@@ -467,25 +429,8 @@
       "data_origin": "live"
     },
     {
-      "rank": "17",
-      "article_id": "LIVE-0210",
-      "category": "tech",
-      "title": "KGC, 원주공장 AI 품질검사·부여공장 태양광 발전 확대 - 로이슈",
-      "date": "2026-11-04",
-      "total_score": "44.0",
-      "corporate_relevance": "5",
-      "business_importance": "3",
-      "action_necessity": "비전 AI 불량 검출 알고리즘 및 제품 로드맵 반영",
-      "recommendation_reason": "NovaFactory AI의 핵심인 비전 불량 검출 기술 고도화와 직접적 연관성이 높음.",
-      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9JVlNjQmxGN2V6Q3VETXE2cHNEaG1uYW1iMUZOdFRGTXg5QjBFWkFjMXpjSjBjM0FNR190SGVTQlEydi1nNm15b1lrQkM4bDU4a2tOcWlhbWlNT2N4ZmhGX1gxeUh1bmQ1eGkxdkNWMV9LZlRBbjJXTXR3?oc=5",
-      "source_name": "Google News (품질검사)",
-      "keywords": "AI|품질검사",
-      "company_tag": "",
-      "data_origin": "live"
-    },
-    {
-      "rank": "18",
-      "article_id": "LIVE-0212",
+      "rank": "15",
+      "article_id": "LIVE-0217",
       "category": "tech",
       "title": "KGC, 원주공장에 AI 품질검사 도입…부여공장 태양광 발전 확대 - 뉴스투데이",
       "date": "2026-11-04",
@@ -501,8 +446,25 @@
       "data_origin": "live"
     },
     {
-      "rank": "19",
-      "article_id": "LIVE-0217",
+      "rank": "16",
+      "article_id": "LIVE-0220",
+      "category": "tech",
+      "title": "KGC, 원주공장 AI 품질검사·부여공장 태양광 발전 확대 - 로이슈",
+      "date": "2026-11-04",
+      "total_score": "44.0",
+      "corporate_relevance": "5",
+      "business_importance": "3",
+      "action_necessity": "비전 AI 불량 검출 알고리즘 및 제품 로드맵 반영",
+      "recommendation_reason": "NovaFactory AI의 핵심인 비전 불량 검출 기술 고도화와 직접적 연관성이 높음.",
+      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9JVlNjQmxGN2V6Q3VETXE2cHNEaG1uYW1iMUZOdFRGTXg5QjBFWkFjMXpjSjBjM0FNR190SGVTQlEydi1nNm15b1lrQkM4bDU4a2tOcWlhbWlNT2N4ZmhGX1gxeUh1bmQ1eGkxdkNWMV9LZlRBbjJXTXR3?oc=5",
+      "source_name": "Google News (품질검사)",
+      "keywords": "AI|품질검사",
+      "company_tag": "",
+      "data_origin": "live"
+    },
+    {
+      "rank": "17",
+      "article_id": "LIVE-0227",
       "category": "tech",
       "title": "KGC, 원주공장에 AI 품질검사 도입…부여공장 태양광 설비 확대 - 데일리한국",
       "date": "2026-11-04",
@@ -518,25 +480,25 @@
       "data_origin": "live"
     },
     {
-      "rank": "20",
-      "article_id": "LIVE-0114",
+      "rank": "18",
+      "article_id": "LIVE-0119",
       "category": "policy",
-      "title": "아이벡스, 중기부 ‘R&D성과확산 스마트공장 구축’ 사업 선정 - 데이터넷",
+      "title": "아이벡스, R&D성과확산 스마트공장 구축 지원사업 선정 - 와우테일",
       "date": "2026-11-05",
       "total_score": "42.0",
       "corporate_relevance": "4",
       "business_importance": "5",
       "action_necessity": "지원사업 공모 및 고객사 바우처 연계 검토",
       "recommendation_reason": "정부 정책/펀딩 핵심 키워드(스마트공장, r&d)가 포함되어 고객사 유입 기회 분석에 직결됨. 스마트팩토리 및 제조 AX 확산 국면에서 주요 잠재 고객사 수요를 파악하기에 최적임.",
-      "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBEd1IzNGM0c0tVZVptcDZ6ZkRLQmV3bWNXdlhxcVZ4WldwLWEtT0pRNHNfMTFHS2l3aDdZNXpkTnhDeGtUSERodm5hM1VBRXVnaTdiQWQ3bGRWMElfWF9tSWVwR3JZRzdOdWJN?oc=5",
+      "source_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ZaU1hOFJnNUZ0VXRHckZpd0EzYVR5UkdzRldYaHpDeV9sc0pzbURMemlETUhGbWNsc0ZFTFk0QnVKQUV6bXNZdUZsU3pON0U?oc=5",
       "source_name": "Google News (스마트팩토리)",
       "keywords": "스마트공장|R&D",
       "company_tag": "",
       "data_origin": "live"
     },
     {
-      "rank": "21",
-      "article_id": "LIVE-0161",
+      "rank": "19",
+      "article_id": "LIVE-0138",
       "category": "tech",
       "title": "AI 불량 잡고, 태양광 전력 생산…KGC '제조공장' 똑똑해진다 - 이데일리",
       "date": "2026-11-04",
@@ -552,8 +514,59 @@
       "data_origin": "live"
     },
     {
+      "rank": "20",
+      "article_id": "LIVE-0666",
+      "category": "policy",
+      "title": "리하온·인텔렉투스, AI 기반 불량 검출 솔루션 확대 적용 맞손 - IT조선",
+      "date": "2026-11-06",
+      "total_score": "42.0",
+      "corporate_relevance": "5",
+      "business_importance": "4",
+      "action_necessity": "비전 AI 불량 검출 알고리즘 및 제품 로드맵 반영",
+      "recommendation_reason": "NovaFactory AI의 핵심인 비전 불량 검출 기술 고도화와 직접적 연관성이 높음.",
+      "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBQc3hzVXRUMEFhNnF5MGctZW5BV0Rkc3hubmRYYXlEeG9UbEc0SU56R3hDdjFUVnVISWc3SzQxNjZBUkpvbGFEZzhxX3c4TXlzeEpJTzRsWlBVNE5aZEFoSkpKUHRLbXRUYVdqelAzX0bSAXRBVV95cUxQeVBpQWFURXJiVXowcFNnMU9XVzlOemVydWt3dk1rMTJHaGR5S255SXFSWTNGU2tLWmhQZ21hM2t5akViUnpack1LWnk5cDZRSEJaLXdVb2pvbEJfQTU4S1AtbXV6LS01QVJFdDhwM1k2SGJKNA?oc=5",
+      "source_name": "Google News (AI 바우처)",
+      "keywords": "AI",
+      "company_tag": "",
+      "data_origin": "live"
+    },
+    {
+      "rank": "21",
+      "article_id": "LIVE-0729",
+      "category": "policy",
+      "title": "아이벡스, 중기부 R&D 성과확산 스마트공장 구축사업 선정 - 디지털투데이",
+      "date": "2026-11-05",
+      "total_score": "42.0",
+      "corporate_relevance": "4",
+      "business_importance": "5",
+      "action_necessity": "지원사업 공모 및 고객사 바우처 연계 검토",
+      "recommendation_reason": "정부 정책/펀딩 핵심 키워드(스마트공장, r&d)가 포함되어 고객사 유입 기회 분석에 직결됨. 스마트팩토리 및 제조 AX 확산 국면에서 주요 잠재 고객사 수요를 파악하기에 최적임.",
+      "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE11WVRSc2REWXZnUHk0OGZwRHpFVUpwbmhkazBOX21ubWJJZVliazlaZ2VjN2ExNW9RZGhhNjlPRmlYREk4UDRsWVpUX3owUy00NDFuYzZNcWdhNnM4SmJGa1JfV1NFaEl3cUpPR0hyWmJsMVk?oc=5",
+      "source_name": "Google News (스마트공장)",
+      "keywords": "스마트공장|R&D",
+      "company_tag": "",
+      "data_origin": "live"
+    },
+    {
       "rank": "22",
-      "article_id": "LIVE-0105",
+      "article_id": "LIVE-1083",
+      "category": "tech",
+      "title": "팔란티어, 창신과 손잡고 신발 제조에 AI 도입…한국 기업 시장 확대",
+      "date": "2026-11-06",
+      "total_score": "41.0",
+      "corporate_relevance": "4",
+      "business_importance": "3",
+      "action_necessity": "시장 및 규제 트렌드 모니터링",
+      "recommendation_reason": "스마트팩토리 및 제조 AX 확산 국면에서 주요 잠재 고객사 수요를 파악하기에 최적임.",
+      "source_url": "https://zdnet.co.kr/view/?no=20261106113951",
+      "source_name": "ZDNet Korea",
+      "keywords": "AI|자동화",
+      "company_tag": "",
+      "data_origin": "live"
+    },
+    {
+      "rank": "23",
+      "article_id": "LIVE-0131",
       "category": "policy",
       "title": "아이벡스, 중기부 스마트공장 사업 선정…후성정공에 피지컬 AI 적용 - 테크월드",
       "date": "2026-11-05",
@@ -569,8 +582,25 @@
       "data_origin": "live"
     },
     {
-      "rank": "23",
-      "article_id": "LIVE-0228",
+      "rank": "24",
+      "article_id": "LIVE-0132",
+      "category": "policy",
+      "title": "아이벡스, 스마트공장 사업 선정… 후성정공에 'AI 검사·빈피킹' 구축 - 머니투데이 - 머니투데이",
+      "date": "2026-11-05",
+      "total_score": "40.0",
+      "corporate_relevance": "4",
+      "business_importance": "5",
+      "action_necessity": "지원사업 공모 및 고객사 바우처 연계 검토",
+      "recommendation_reason": "정부 정책/펀딩 핵심 키워드(스마트공장)가 포함되어 고객사 유입 기회 분석에 직결됨. 스마트팩토리 및 제조 AX 확산 국면에서 주요 잠재 고객사 수요를 파악하기에 최적임.",
+      "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9XQlpnRG9hTEtfWWY1akRjYnRUTzY2OWxXOVBkZHg5Vlc4QnQ2MXVIa1h3eDJzMDV2OEd4OVg4LVBBUUJrLUlvREo5X1lfRTNJWjIxZF82U2V3WkQ2MmpDZVd0MVBOUUpJZ3ZRTDlheWRRcUtqaVVF0gF8QVVfeXFMTm16cWIxNU0wd1lUVlE3YjJpNGRfRVFJMUVDWnpMc3ZiemZrd2UyTnpfSzVocjdPWWJFbjNVMFRDU29CMGlBdjNZSExza0hyMnFxNkxlVW5DQ3NZQ1JMNUtydVBoYkdqMVlMSWJyd2hxMU5WaFhOT2d0V2V5aQ?oc=5",
+      "source_name": "Google News (스마트팩토리)",
+      "keywords": "AI|스마트공장",
+      "company_tag": "",
+      "data_origin": "live"
+    },
+    {
+      "rank": "25",
+      "article_id": "LIVE-0231",
       "category": "policy",
       "title": "\"홍삼 품질은 AI로, 전기는 태양광으로\" KGC, 스마트공장 고도화 - 뉴시스",
       "date": "2026-11-04",
@@ -586,7 +616,7 @@
       "data_origin": "live"
     },
     {
-      "rank": "24",
+      "rank": "26",
       "article_id": "LIVE-0728",
       "category": "policy",
       "title": "충북TP, 스마트공장 테스트베드 기술교류…AI·디지털 전환 지원 - 에너지신문",
@@ -603,25 +633,8 @@
       "data_origin": "live"
     },
     {
-      "rank": "25",
-      "article_id": "LIVE-0729",
-      "category": "policy",
-      "title": "AI로 도면 찾고 납기 10일 단축…인천 제조기업들 스마트공장 혁신 - 중부일보",
-      "date": "2026-11-04",
-      "total_score": "40.0",
-      "corporate_relevance": "4",
-      "business_importance": "5",
-      "action_necessity": "지원사업 공모 및 고객사 바우처 연계 검토",
-      "recommendation_reason": "정부 정책/펀딩 핵심 키워드(스마트공장)가 포함되어 고객사 유입 기회 분석에 직결됨. 스마트팩토리 및 제조 AX 확산 국면에서 주요 잠재 고객사 수요를 파악하기에 최적임.",
-      "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBnT3ZSN3VLbVNTd2pIZWd2VlZ3eUZEQnBCY1JuZHZQOTZRdk5nVHZidkQ1YjFBdWtIYzdvcldXWVI1eGhvb0drWVNSelBSSzhxUWFhNHZrRkJyYXo4cDAxay1PTThjenpTV2FzZWVqQQ?oc=5",
-      "source_name": "Google News (스마트공장)",
-      "keywords": "AI|스마트공장",
-      "company_tag": "",
-      "data_origin": "live"
-    },
-    {
-      "rank": "26",
-      "article_id": "LIVE-0730",
+      "rank": "27",
+      "article_id": "LIVE-0731",
       "category": "policy",
       "title": "스마트공장 공급기업 2500곳 시대…제조AI '끝까지 책임질' 곳은 드물다 - 매일일보",
       "date": "2026-11-02",
@@ -637,8 +650,25 @@
       "data_origin": "live"
     },
     {
-      "rank": "27",
-      "article_id": "LIVE-0731",
+      "rank": "28",
+      "article_id": "LIVE-0733",
+      "category": "policy",
+      "title": "AI로 도면 찾고 납기 10일 단축…인천 제조기업들 스마트공장 혁신 - 중부일보",
+      "date": "2026-11-04",
+      "total_score": "40.0",
+      "corporate_relevance": "4",
+      "business_importance": "5",
+      "action_necessity": "지원사업 공모 및 고객사 바우처 연계 검토",
+      "recommendation_reason": "정부 정책/펀딩 핵심 키워드(스마트공장)가 포함되어 고객사 유입 기회 분석에 직결됨. 스마트팩토리 및 제조 AX 확산 국면에서 주요 잠재 고객사 수요를 파악하기에 최적임.",
+      "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBnT3ZSN3VLbVNTd2pIZWd2VlZ3eUZEQnBCY1JuZHZQOTZRdk5nVHZidkQ1YjFBdWtIYzdvcldXWVI1eGhvb0drWVNSelBSSzhxUWFhNHZrRkJyYXo4cDAxay1PTThjenpTV2FzZWVqQQ?oc=5",
+      "source_name": "Google News (스마트공장)",
+      "keywords": "AI|스마트공장",
+      "company_tag": "",
+      "data_origin": "live"
+    },
+    {
+      "rank": "29",
+      "article_id": "LIVE-0734",
       "category": "policy",
       "title": "신성이엔지, AI 스마트공장 혁신 성과 인정… 국무총리표창 수상 - 솔라투데이",
       "date": "2026-11-01",
@@ -654,53 +684,19 @@
       "data_origin": "live"
     },
     {
-      "rank": "28",
-      "article_id": "LIVE-0146",
-      "category": "tech",
-      "title": "KGC, 원주·부여공장 스마트팩토리 고도화…AI 검사 및 태양광 확대 - 뉴스드림",
-      "date": "2026-11-04",
-      "total_score": "38.0",
-      "corporate_relevance": "4",
-      "business_importance": "3",
-      "action_necessity": "시장 및 규제 트렌드 모니터링",
-      "recommendation_reason": "스마트팩토리 및 제조 AX 확산 국면에서 주요 잠재 고객사 수요를 파악하기에 최적임.",
-      "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBOX2Z2VlpsT3NUU2JDd0dpdkc0Y2JLYjhxTWdLX3hWYWNpN0ktYUt5VV93Z1Jmbzl5M054d2FXX1A1Y1NfV25jQ05mYmFkNXpJMnpPY3RrdGpTMGVZZTZ0OGJSMVhWX0JCUDJR0gFuQVVfeXFMTkltUU83dU9raHV2OEw0enRTV1BnY3FpdWktdlhWVjNDUGNEZ0ljNHZTRnQyRzlJWW1RSmt3LXpaVzY1c3lsZ3lFLUtJMEM1cUp3bG5CdnRTdFJqa1J1bkZLR0RlQnBVYXo1NDNkVFE?oc=5",
-      "source_name": "Google News (스마트팩토리)",
-      "keywords": "AI|스마트팩토리",
-      "company_tag": "",
-      "data_origin": "live"
-    },
-    {
-      "rank": "29",
-      "article_id": "LIVE-0150",
-      "category": "market",
-      "title": "대구 제약 스마트팩토리 문 열어…바이오·헬스케어 제조 AX 본격화 - 브레이크뉴스",
-      "date": "2026-11-03",
-      "total_score": "38.0",
-      "corporate_relevance": "4",
-      "business_importance": "3",
-      "action_necessity": "중소제조 타깃 고객사 발굴 및 영업 파이프라인 연계",
-      "recommendation_reason": "스마트팩토리 및 제조 AX 확산 국면에서 주요 잠재 고객사 수요를 파악하기에 최적임.",
-      "source_url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBtWmdHQ196U2ttRE1PZ3M5YjZ4MWFJRFhCMVVUQmZaYTlHZUpmNmdMV2ZGY0dqS3ZEa2RiTEZzcWY1dw?oc=5",
-      "source_name": "Google News (스마트팩토리)",
-      "keywords": "스마트팩토리|제조 AX",
-      "company_tag": "",
-      "data_origin": "live"
-    },
-    {
       "rank": "30",
-      "article_id": "LIVE-0213",
-      "category": "market",
-      "title": "[르포] \"자동화 강화·4중 품질검사\"…한세, 미일 바이어 동시 공략 - 연합뉴스",
-      "date": "2026-11-01",
-      "total_score": "38.0",
-      "corporate_relevance": "5",
-      "business_importance": "3",
-      "action_necessity": "비전 AI 불량 검출 알고리즘 및 제품 로드맵 반영",
-      "recommendation_reason": "NovaFactory AI의 핵심인 비전 불량 검출 기술 고도화와 직접적 연관성이 높음.",
-      "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBWWDVkM0xHMGtEcEl3QmdNNXpBUTF6blBVcThSRkxwcVVFdXNmVGptR216SENVZXdldndHaHNUR1pLYVZPQ21PU01JRmQwS3NFNXNWN0kyTHBYMnPSAWBBVV95cUxNWlRTUXhXbUU1SndGbmNjZVpIUkpSNmFyZkZOS1hzWnFYM0dBNHltNWt2ZUhTV01QbVl0SWFQYnlwVVNybjRmbkItRjZxZHl3SWVoalVqNlExNVh3dXZ6Mm8?oc=5",
-      "source_name": "Google News (품질검사)",
-      "keywords": "품질검사|자동화",
+      "article_id": "LIVE-0778",
+      "category": "policy",
+      "title": "심플랫폼, 중기부 스마트공장 역량진단 'Level 4' 획득…산업 AI·자율제조 기술력 인정 - 중앙이코노미뉴스",
+      "date": "2026-11-05",
+      "total_score": "40.0",
+      "corporate_relevance": "4",
+      "business_importance": "5",
+      "action_necessity": "지원사업 공모 및 고객사 바우처 연계 검토",
+      "recommendation_reason": "정부 정책/펀딩 핵심 키워드(스마트공장)가 포함되어 고객사 유입 기회 분석에 직결됨. 스마트팩토리 및 제조 AX 확산 국면에서 주요 잠재 고객사 수요를 파악하기에 최적임.",
+      "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9NNXRiS3NtZVRON0N0TjlJZFoyNkdYUXJFRzVrX0JTOXlhZ2w1Vm5WQ1ZjVUs3NzZXWE9idEphM3Y1X3BscWpIczNEWVo3SmZlNFNyS25XcjhvZXRzWk1qdW15bkRCMFIzajQ2Wnl6eHV0QQ?oc=5",
+      "source_name": "Google News (스마트공장)",
+      "keywords": "AI|스마트공장",
       "company_tag": "",
       "data_origin": "live"
     }
